@@ -13,10 +13,7 @@
 5. Состояния карточек
 6. Спиннеры, дополнительные состояния
 7. Доработка под pixelperfect
-8. ➡️ **Изменение приватности репозитория**
 
 ## Ссылки
 
-> [!Note]
->
-> [Ссылка на проект](https://github.com/walking-in-the-woods/posmotri-v-okno-fd)
+Ссылка на проект: https://github.com/walking-in-the-woods/posmotri-v-okno-fd
